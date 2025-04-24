@@ -1,4 +1,4 @@
-# SDHS-limited
+# limited
 
 ###### from Korean high school student game developer
 
