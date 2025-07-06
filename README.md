@@ -5,9 +5,10 @@
 ### Content
 ##### gmail : wooozem@gmail.com
 ##### instagram : hongwoojin_08
+##### school : seoul digitect high school
 
 ### Hello
-###### I'm game developer Limited.I'm a developer who does his best to have fun in your life. I'll continue to make more fun games. Thank you
+###### I'm game developer Limited. I'm a developer who does his best to have fun in your life. I'll continue to make more fun games. Thank you
 
 ### Using Skill
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
