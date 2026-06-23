@@ -1,9 +1,11 @@
-# Hi, I'm Limited 👋
+# Hi, I'm Limited
 **Korean high school game developer** — building games that are actually fun to play.
+
+한국 고등학생 게임 개발자** — 제 목표는 재미있는 게임과 편리한 기술을 만드는 것입니다.
  
 > *Seoul Digital High School (서울디지텍고등학교)*
 >
-> Age - 19 
+> 나이 - 19 
 > 
 > 관심있는 프로젝트에서 파랑색 글씨를 클릭해서 볼 수 있습니다.
  
