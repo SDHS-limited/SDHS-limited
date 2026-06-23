@@ -22,7 +22,7 @@
  
 ---
  
-## 🎮 Projects
+##  Projects
  
 ### [MAIP](https://github.com/SDHS-limited/roguelike) — Roguelike FPS
 > *"강해질수록 통제력을 잃는다"*
