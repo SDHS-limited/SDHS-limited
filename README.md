@@ -1,7 +1,7 @@
 # Hi, I'm Limited
 **Korean high school developer** — building games that are actually fun to play.
 
-한국 고등학생 개발자** — 제 목표는 재미있는 게임과 편리하고 유용한 기술을 만드는 것입니다.
+**한국 고등학생 개발자** — 제 목표는 재미있는 게임과 편리하고 유용한 기술을 만드는 것입니다.
  
 > *Seoul Digital High School (서울디지텍고등학교)*
 >
