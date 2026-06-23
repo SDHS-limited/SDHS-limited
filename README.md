@@ -2,6 +2,10 @@
 **Korean high school game developer** — building games that are actually fun to play.
  
 > *Seoul Digital High School (서울디지텍고등학교)*
+>
+> Age - 19 
+> 
+> 관심있는 프로젝트에서 파랑색 글씨를 클릭해서 볼 수 있습니다.
  
 ---
  
